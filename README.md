@@ -17,7 +17,7 @@ Read the [dialogue](/docs/dialogue.md) first, that is your customer conversation
 
 **Deliverables (submit all three):**
 
-1. **The code.** A repo or zip. Any language, any interface - CLI, web UI, a JSON report, a PDF, whatever you think Maj. Reyes will actually use. It should run with simple instructions.
+1. **The code.** A link to the repo. Any language, any interface - CLI, web UI, a JSON report, a PDF, whatever you think Maj. Reyes will actually use. It should run with simple instructions.
 2. **Your AI agent transcript.** Whatever tool you used (Claude Code, Codex, Cursor, etc.) - export or paste the conversation. We're explicitly *expecting* you to use these tools. We want to see how you use them in building product.
 3. **A short writeup** (~1 page markdown) answering:
     - **Assumptions:** List any assumptions you make about what Maj. Reyes wants. 
