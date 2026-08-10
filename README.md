@@ -30,7 +30,7 @@ Read the [dialogue](/docs/dialogue.md) first, that is your customer conversation
 - Commit often. Git history helps us understand your thinking.
 - If you make an assumption about what Maj. Reyes wants, write it down in the writeup. Assumptions are fine; hidden assumptions are not.
 
-**What happens next:** If we move forward, there will be a 90-minute pairing session during the virtual onsite, where we'll extend your solution together. Therefore, please build something you'd be happy to come back to in order to make improvements!
+**What happens next:** If we move forward, there will be a 90-minute pairing session during the virtual onsite, where we'll review your solution together. Therefore, please build something you'd be happy to come back to!
 
 **Submission date:** 2 business days after receiving this excercise. We aim to make a decision within 48 hours.
 
